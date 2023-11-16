@@ -1,0 +1,26 @@
+{
+  "name": "Mark Ortega",
+  "age": 29,
+  "address": {
+    "street": "Curuf Boulevard",
+    "city": "Lojhitup",
+    "state": "AK",
+    "zip": "67786"
+  },
+  "contact": {
+    "phone": "(951) 619-6453",
+    "servicePhone": "800614288"
+  },
+  "birthday": "1961-11-30T15:04:06.827Z",
+  "ip": "250.119.26.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze nimhi tuwe fuwpilnut urhazrib ba pidejro sadak ibibihode fete lejhike ja kahjuz zuj sovi vop fagukih. Lapnujli wizuhip nuvet mev jo jeppatbu hi nuham avu segila su giwolu debnuji jones siramej. Nukfa onnunew ukunwor ipfazbu mas za owenule emeva ozu gohhes jugmoeg dusaopu ca zoz te tob. Uwouwe sugso ef erobag sujoc zamica bodo tigoho mi se catfe pugaca egorvob.",
+    "bio": "Bahruub dar zeepaj tehfupsab wusa halisoija ul eg eg le fepnued soelu lod. Rasvol rutuf ori pum ohmil kuoso ze neuzudug vegun cilagpav rez na viodudak maw ag tefrupgi. Ta to necnimril paznatis ocvid gisfof fud ibi lemti fes boh uzihamaz cup bifaweho huluwo fu. Kopatice nih sibmaz zib ne ibbi akueccad umiwiv ahmaho numbodis vadute ofu. Ba uni boideedo wo sowtono voteci lu owlu me jelimoko edujiome kuf obahoji kizi evo. Epa mo feot ulaka senaenu kiufjez se nufij nu aso da bofhoj mohu."
+  },
+  "apiKey": "27b1d2c1fe412c92333f65a40f5bf096c21889add97812e1d8a33e296bac4b24",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
