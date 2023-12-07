@@ -1,0 +1,26 @@
+{
+  "name": "Victoria Cole",
+  "age": 38,
+  "address": {
+    "street": "Efre Path",
+    "city": "Sihekav",
+    "state": "CO",
+    "zip": "68781"
+  },
+  "contact": {
+    "phone": "(824) 294-2427",
+    "servicePhone": "800115282"
+  },
+  "birthday": "1968-08-25T03:39:45.851Z",
+  "ip": "219.83.115.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Gaebi it vumuc hotnednup cob dig oko nus hev wom ufuzo diki oveevokig lo. Ro un ebu ducac pef nes jizmetar ic hag inofav vontigaj cij ep. Erciv riz sidawilab om koj peatzo urumegar cuude ciwuuh ve upo icap ilsow mevozu honar juabo hur.",
+    "bio": "Kadempej falo ma ura muv paaza ebsagbid tebogud fep ewakuc vosuewo nihu. Aba gurifoog sivka na togasje mod viba gi cobdolrel sapefi pezu osli in zih copdu em witetgeb gata. Ran tuwohiv jevzi ziwkomo gubirip wograv hegoges opdut sop gol sarim ca. Huk to fofceehi rid fahjiup ac ti ep wuipe ju beufcu goaz udwon ojfeg caf folezmof za ruf."
+  },
+  "apiKey": "4d11d381e9f13d2539e5bf56e47bba94d08d66d797e0b94185572e7b4afb28d1",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
