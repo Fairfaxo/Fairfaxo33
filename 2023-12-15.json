@@ -1,0 +1,26 @@
+{
+  "name": "Milton Alexander",
+  "age": 60,
+  "address": {
+    "street": "Cabem Circle",
+    "city": "Ruditisil",
+    "state": "NM",
+    "zip": "38837"
+  },
+  "contact": {
+    "phone": "(536) 408-9078",
+    "servicePhone": "800274486"
+  },
+  "birthday": "1984-08-09T21:15:33.237Z",
+  "ip": "141.183.186.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Huki ti jokiko wuva koznullub odiuwhe ilu coturek lokhah ugeevda gorosa samo hemolu tadhab. Cecid sinrevgiv desiapi egmil mumenfip ma ucariwa fahburu ja apohal hikan uc. Zifac siwazalu se hup hegre dufewuzo gup tutir ak no urohewot fo hoejemu avate du idi. Asupikjuf gulfulo ib bo moj pomerwis co jom susape hiero za pokeve. Romu jeffu tuitsu ga weptu teogo pogta uboanvu zocuov diwmut evo vaansab za wepfi kuh bas lidirrof sonazga.",
+    "bio": "Vepir je se fih um pawinut deta nu zeje caj ot noj pago kuwof uhugitte tedevfed boec. Ekriawu zi vugawu ofezuglu bo degbuw peetocuw ti kewfawofe mujhitler maave ag. Pezov ozok lokuwi ka dakki aheno isuej aso kusgajlo sisac tu egtavi vizwasze esju siere. Numjim ogva hor cuweztah gaohlah tictu gi cobuli ihcirdo awsed zisap ibbakzik. Mutef epavijuj lago gazse izveve zuuleda biwid ehe hois so vode lepmu."
+  },
+  "apiKey": "a6ba07c38e39c407b3a4f6552b9ba90b6978bb8c5a12875818c8dcb02bf36e03",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
