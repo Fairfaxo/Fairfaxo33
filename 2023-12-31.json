@@ -1,0 +1,26 @@
+{
+  "name": "Juan Ross",
+  "age": 49,
+  "address": {
+    "street": "Tolib Avenue",
+    "city": "Haselum",
+    "state": "TX",
+    "zip": "53359"
+  },
+  "contact": {
+    "phone": "(516) 558-7707",
+    "servicePhone": "800271611"
+  },
+  "birthday": "1987-10-31T08:52:53.462Z",
+  "ip": "240.148.73.151",
+  "foo": "bar",
+  "profile": {
+    "about": "At padje fazbuva bekbe gapcoum ocvugihu lataven kuthujfin isiogu coz iji kere fiuclu kenokze ejadavic uca ho. Huctehi etabumged arbefvo ukamo budew vah purona soveeca kitfi jizto bugre ule pipsow poik bih mawcah. Diddo rohukpi muprewar cehem wuffil bit wakjisu de ho ek tugjesa viabukaz uh wa.",
+    "bio": "Butu sirgo finmebce eba padi cadger lal be ejibedod fur homodfad hosci. Rujdem gafkagruk rahimal uvhej gonujtu modwupo je rarniwibu ercola ivicob fobuika ohera garihu. En goniun jokoc po ah necwon zotwotbuh hiwas noskaf fapwerti fapilo hizodowuw kuda nipak."
+  },
+  "apiKey": "e8fa3bd313dc1884494d7e915172ea06a723f5b9e7865c56a6b72991491050f2",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
