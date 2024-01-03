@@ -1,0 +1,26 @@
+{
+  "name": "Sam Baker",
+  "age": 42,
+  "address": {
+    "street": "Pajat Boulevard",
+    "city": "Ehcuzi",
+    "state": "CO",
+    "zip": "23159"
+  },
+  "contact": {
+    "phone": "(857) 966-9693",
+    "servicePhone": "800192989"
+  },
+  "birthday": "1986-12-31T11:04:05.157Z",
+  "ip": "222.197.189.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Olpuhtes catjotdi zepma tan zece guzgus izbezha tam emfih cinoef viafo ahejog. Vihej rukdedlem nikkac dom teudodij hovowi apifaluw vodcokda ibi iskuwke rutti zarhe gibelo ijusutezo fap mev nansu suv. Tiramojo keeze cebihcaf fudliawe deribu umi pewi ewu pakodiwa moaja milu ibadupu wolajkos uneedu. Ipemuah ejosoznoz vo keku rekec mugep zirnil innotjo vepicpew so deokera mavpog huzoni bahfuoli gutenev nufes. Epekouc ucele tewite ewme le tep gupzoadu jesijavi rubej sa covewbif gocimu sucrec sowtuh wabrem nol avpapu rew. Eno cib dagabiriw ok saz an suvisev tiznetuf tomza gezgaw gaid lawi obris.",
+    "bio": "Cih gotefeb nuvti tewok vu tu uropusip raw nefve hek jo elsek. Levus geira ce citjig gedluti kod nuza piahse pe fifnon ikiroruc fikbapok asu labasim nori vifohi subbo ojpeb. Paajunu loduz ceishu esfezcu pegusur galjange ivudola jueve atafiluz da zuukares hojhuuf ap rugwoz zago vuvsuf jishulub."
+  },
+  "apiKey": "c8a7867506554c96db4072b434345bad02997980e161950f173045507ac04dcb",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
