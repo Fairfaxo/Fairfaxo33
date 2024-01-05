@@ -1,0 +1,26 @@
+{
+  "name": "Charles Griffin",
+  "age": 31,
+  "address": {
+    "street": "Vizuc Pike",
+    "city": "Nuclisma",
+    "state": "IN",
+    "zip": "17815"
+  },
+  "contact": {
+    "phone": "(267) 559-5800",
+    "servicePhone": "800924614"
+  },
+  "birthday": "1971-01-18T15:58:45.426Z",
+  "ip": "171.187.251.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Fit rushi izcav ka mauh salam vizne erpas ak izum vo rek pomsuw uknolu zilgase ce. Zomok eneiloal isi pa wu umalaksi zidedeud aguigo sucasdad uz oca tetakor. Tosegifap ruglale ivdaggez tucoru noz inalne we vewmofse hignibve jihdi hubu we ot nezazoj cihvuot ho mausa zucmu. Godow hemo bud badivfo fur wenop ror be omfocbul pegu udiwal locdu. Fu ijovucke galmuwok caifapus fisuko tevafdi lu boguz ratze ecma ulewisuj howisoap rah. Apiwec boz muc pacja moete afa cuglo hanzam ubi bemi jah monicep.",
+    "bio": "Pu ecofavo mobli zummirem poj ulozav egobo coftah kikkih hewkujis ma itahibuj vo nageve ha dogot hopav vivabesi. Teagu bosmupwo wozigpo niphe relehaga tagrat efuto men jomos febonim go bika kaho fu. Lep devsadsob vac ake vozzag bugkod oca da ha higruzvo hoccel oplewba fut mi jawte fere."
+  },
+  "apiKey": "6d0772b66e4f7ec4a4e6c927f22ad0d6cb68975432a74aa2acbf0cc39a8f27df",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
