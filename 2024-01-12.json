@@ -1,0 +1,26 @@
+{
+  "name": "Philip Gross",
+  "age": 23,
+  "address": {
+    "street": "Bontif Extension",
+    "city": "Gorede",
+    "state": "AK",
+    "zip": "35387"
+  },
+  "contact": {
+    "phone": "(669) 583-4192",
+    "servicePhone": "800955172"
+  },
+  "birthday": "2004-11-19T07:30:06.516Z",
+  "ip": "57.129.12.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Ufaec diis no fawaceh tawvakpe viuv sino ocile uha sohuno tiz caeh cimne siz gise oh. Va zufot siaw pemwe sicve dirulut nuhu gudro rijpowdij nascebi gut seda zi kif. Bedfeka minij pihso cob few lakal buc je ipdat movo cu vehar wuz.",
+    "bio": "Difzok wijor vire kolfaggot hiwiro guriwfiz ujsargod ofukeh kucnihuk loanu mula gug zisez afiap ralu. Dana rop lot jor liodagi weze vilgocaz et mozipihil gumpuhma ite wezhaide posavid mumovu rum. Zeisi vovawa koshi hutjut muvo dawsop sojgud worlud sekap cilo vowinaguj neuba keoje luzoke vifozfoh opni ceihavah vuknites. Fahnic wahi leel sizir lacmazsor ko eweca eg zod barkid kij jebvupre jolvi gensoz lu lirku vilofi."
+  },
+  "apiKey": "cc13012b756f79d277e9ff186e2c0acd3437d26b6a000a7e2a618cd8f1f8785e",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
