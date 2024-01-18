@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Edwards",
+  "age": 44,
+  "address": {
+    "street": "Hebij Center",
+    "city": "Caroli",
+    "state": "OH",
+    "zip": "63292"
+  },
+  "contact": {
+    "phone": "(222) 755-3182",
+    "servicePhone": "800568744"
+  },
+  "birthday": "1998-10-18T08:57:30.384Z",
+  "ip": "151.36.214.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Sawem osom apitehgo hu se hohkirbo zogome tu rocfelte row lobore ujzib mew zaba ikwuf mafwufeg. Rupivvab riegu zihmuga okuodi ciki pel wujudi movoize honaam tutel pemmug iw vaben. Micta sersowiku watanu hareb powhaim ku esa vu aselu efek tekgahzop sic memsop da zuzfuvtok. Rizuwij mu zadewsir ewade ez ezten awomis ruhse ciw kowivdan gesrophuj gopu otu lakriuve zot fe. Rotez ki moenoat kakib couw suf uri za vohomfuj tohduron gi we wejmi ilzelkun fajmenur hem kecad haro.",
+    "bio": "Tekfoeke daw sabwute bivuwod utucopwe ek igutfis riglez atka su ma rebotwu zub notgul. Hupkug bovifgu vip zoelep tag ohefahi sivanve jouza egoun zoiguwet iwwe tu kuzilu rupejogi opuz nuguejo giow. Gu hasec diufe uzobapku orurane if dup ev inda mo fike ned ot nusola regneipe."
+  },
+  "apiKey": "71e939f7b13216df1498b4410b77246c2a9cade50591bdca0ae1c2711e353cd7",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
