@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Soto",
+  "age": 45,
+  "address": {
+    "street": "Ifcar Street",
+    "city": "Seuziga",
+    "state": "FL",
+    "zip": "55864"
+  },
+  "contact": {
+    "phone": "(628) 366-1328",
+    "servicePhone": "800851624"
+  },
+  "birthday": "1988-01-09T06:56:45.286Z",
+  "ip": "122.136.109.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Uzteg fadufaj gaezeda re niwnidu sizge mi sajra laziuhe jani jepbowo tuvzululi hiwwurud poitiamu nur uli cen bil. Rew malimeb icagwum jup wofag ov ke ofberi bum azal zuvcomsa fuup hulfo oka. Madvak ivosub moarej iwva uv jiksirev tiafkos aso lu kutica wonifwe suc cafacer. Unvir woafi zojahaci siv amini ko uh sefjaz rap reefwa kivsepgel niz upgozpa goniro. Zug bazoze mas ajijavetu toj jerouhe ivusuze kebsew gi feku fejhotoh ud pazu wuefa baciwfaw tudradgit cow irelok. Mac de cugwupfa okinuhfos zihhecide ibo gon hissil zu nu oconuep ladu igo viap kemdaz.",
+    "bio": "Usofihi vaner solgi mebo hobjiulu zazi nel eppabdi hence meh ha kiro. Enives esa howek dizoha vik tijo hepbuw ra mobusovoz puzezem umfoz rojtajso febtiw ikitiho. Ugafejrig bolot wu lep enze neksufaz ke do virdo fehifuh ludvani jamut cum awaumsow fatka jata jar mi."
+  },
+  "apiKey": "af92c512db82279d26cfce3aae228f2522bf67968a79c31c9ea2176b778448b4",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
