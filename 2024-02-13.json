@@ -1,0 +1,26 @@
+{
+  "name": "Richard Palmer",
+  "age": 39,
+  "address": {
+    "street": "Bios Street",
+    "city": "Hadgaol",
+    "state": "AZ",
+    "zip": "93199"
+  },
+  "contact": {
+    "phone": "(970) 267-2404",
+    "servicePhone": "800647668"
+  },
+  "birthday": "1981-05-30T00:21:17.187Z",
+  "ip": "159.201.243.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Elkemos efi wujjitaj noociko umpu ahikihic kocupaiji vefamis uz vulfuktut huzjid jowgevow nikab nadweci. Dumoc le eziijma rilro dumema bol huhceuca lagoke benenemu ihnaju gihmulte ner ulgi walun ev epu. Rizulhok kitkalom nom noset sok wa wurlal za kateitu guju dej vipap mumekivuf gij so dahdas ufefe aziku.",
+    "bio": "Rulun hagoz padodif zuizne fa di miki sew jerwehet beweho ropjikig vatef. Dotujus ruhod pijdekbod evfape mepro menijeb rodgewko fotuc akko rozwakli awunajbi febpi fajad. Evfad cis uw wowcerne ro navijlom fo govbobive oti sucjoffud ga ahufuc falco la ab az dol buw. Boskokri rac viswosrum uhri umoific dogki beciniji goludrab wavhejvic nugorzu faw gi jecba cizew te lo. Pu mine ce hulnu jubke ti op emu ihivusu dusger kub haz."
+  },
+  "apiKey": "1f4afa1f2d86df43894a40c7aa4b591a47ae4308385e6347b57042eb5d14f648",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
