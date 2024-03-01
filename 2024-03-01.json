@@ -1,0 +1,26 @@
+{
+  "name": "Nell Williamson",
+  "age": 60,
+  "address": {
+    "street": "Zuud Parkway",
+    "city": "Diemnu",
+    "state": "MN",
+    "zip": "17934"
+  },
+  "contact": {
+    "phone": "(357) 475-5035",
+    "servicePhone": "800911522"
+  },
+  "birthday": "1977-10-01T19:50:27.111Z",
+  "ip": "119.216.140.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Majub ek notva etegvo kikabda cucima ifzol kaeh gu suku vo loecube oconozuf aho fikafah sikutuf. Tumoctez ottebec othubbip egosuewu burgok vod sugpuh avvivhar zehom sujauwu li jirsuv nufmokiw. Dele gibokcab adba si ubeculok gobpahu bacos ojuca fajalev uti gofecpoj di bakogi paj vo. Omtakdig zozgeh puiz bubju gupu izulejo pavev vehemar zuv roju jonaew ozo la tuloza beriive su. Fepowab fa se ujo jerihjeg fe kizictir ecdil vu bupawvi po niuhieko. Salij muc dakutlo amsuzut ure fa nebuwi larpi ivpo bier tecib karsapel si oj nutdid sip.",
+    "bio": "Zode jumedu awi vizlud mi suti kacile piv ovses enle rib ifeku aljon wij hoba bij daz evtebedi. Ug ovacamha jo eniperbe duvwi sifsi kan cofjo maal mihkas vewogni tuvehah. Roic atave nose nujleh zowoc ug avhiliv pikcadar otrulak tenhuca lef toszekvon holsupu lo."
+  },
+  "apiKey": "37b2b362e8690401a2e7906f04e14f54a095a46f151e22624af1e9bbb73c138b",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
