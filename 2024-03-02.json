@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Larson",
+  "age": 33,
+  "address": {
+    "street": "Cima Plaza",
+    "city": "Zoifefaw",
+    "state": "TX",
+    "zip": "07010"
+  },
+  "contact": {
+    "phone": "(471) 812-2959",
+    "servicePhone": "800259146"
+  },
+  "birthday": "1983-04-20T12:01:53.172Z",
+  "ip": "70.194.143.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovepe izu tak dop fo inonujzu ne pow dooni zek reimimu efo fefut lor. Juewgi merven guuz vusuteto pudfehe pu hitkuv ru jukid te tievac ozolozawa uvubic. Hojukufo igiiro vurimud ekuboc hutfero lalnuz atoba rej jasjih je cumfi mavaj ipdo otukujsi.",
+    "bio": "Fif orutih aki za huiza fozkirsaw hepav zotom imza su irmerag lat ap uwtat lemirhek. Acwo vebecdom ke et ud husmovcop ogvauka terezij kufwitam otgogit fa vuw fuvav hamdoj saf obviad wufisdi. Gamtes socos heluf id biraro gu cetotu baak bu vok titha vum."
+  },
+  "apiKey": "4782b84ea958178999f43feead92268bef77391aefacf51f8b32adbc7ed3c2f9",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
