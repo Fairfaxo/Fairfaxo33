@@ -1,0 +1,26 @@
+{
+  "name": "Eric Hoffman",
+  "age": 65,
+  "address": {
+    "street": "Pokheh Point",
+    "city": "Zivnamran",
+    "state": "SC",
+    "zip": "45766"
+  },
+  "contact": {
+    "phone": "(383) 470-6451",
+    "servicePhone": "800755742"
+  },
+  "birthday": "2002-01-22T09:08:59.888Z",
+  "ip": "149.29.103.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Fojbo ote fak imowida babrij garvoci vangoldi hetpu fec kum nonod val tihekmif zaf femje. Nub taufaraw du jo hibes gokom pejiuma wu wipec dolugi av calrad hi apbeji. Dad koped hiral eh mensien gi loc rilbal po iza eto ida mewla peb re bijeh cip le. Tu zitirgat pu iv gatuz jaztaj ajner buguf hizmu nagwecpe li ibasaoci tewos titne. Da aci pi nudinare ake epgu bobsib lemdat zic rulunir ko zaziga. Lurarka abuhe pasimfu rumet afosoig cub wosfo firehupi uz wo zurjumvim koffe cagsoapo je ep mi je. Wi ag hufih me ugiuti ra pahel acu fulogaw laulo jodzuf hop umbe.",
+    "bio": "Jub zozfanur piir fofag emvo durepo jerirred doz koguzobif jafob ba wig lohiov wacdaida or kubrot. Gejiz ojetug ujuoz rapil coj gakoref lo sokun owbe golow kavracca gu uperal ujitiw bemke. Ecaghu bojume ivpodsa ahcosi itmog fowron jave cido ro zova nogoje elanutdo uluejaze vikto bi tecugi ostof."
+  },
+  "apiKey": "c3e9dc76e981c41ca4f4ce01be2c085efd9272adf068f773a52732a2f759eb29",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
