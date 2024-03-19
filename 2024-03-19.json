@@ -1,0 +1,26 @@
+{
+  "name": "Donald Barrett",
+  "age": 26,
+  "address": {
+    "street": "Buza Street",
+    "city": "Keftucif",
+    "state": "VT",
+    "zip": "71188"
+  },
+  "contact": {
+    "phone": "(563) 890-1430",
+    "servicePhone": "800974496"
+  },
+  "birthday": "1976-03-07T22:52:26.417Z",
+  "ip": "37.210.186.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Noz gafo mic talidku tat zejoja timbuc jiapu lul si gusho veh de nittavav dipba. Nezlen afmah nik gudiwvun jommag jeazjub zolmipej gouhukal omu welgecsu fanad feceho cicinzar bac badaete degpotnal kienuzu. Oseda zog ewwub cesucgi pu kedheg ruw fugu tipgeceg foro dome zo afa ofeisesup fol libaloc hisega iho.",
+    "bio": "Jiknaoh dejidveg ebcabu vodluh az lif jiksig mib zawawe ciswofe to viw pa wojemenu rorurat fu. Da raite fute ti ce as maihu gaweg udi wusdesgum ito sejkugku. Gobgecsi lonbahkeh tegla juporu meap lafcefrez faufo uz befoj buf nigibinok koskala iw dure ofuwmaz ku leb fu."
+  },
+  "apiKey": "2f8621cc07ee326855ea4689514f54873dfb9699a1d053db04347c1bbedca0ca",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
