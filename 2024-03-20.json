@@ -1,0 +1,26 @@
+{
+  "name": "Kate Saunders",
+  "age": 25,
+  "address": {
+    "street": "Umfot Avenue",
+    "city": "Popupo",
+    "state": "ND",
+    "zip": "95831"
+  },
+  "contact": {
+    "phone": "(436) 552-8163",
+    "servicePhone": "800182383"
+  },
+  "birthday": "2001-03-03T05:48:25.672Z",
+  "ip": "130.37.129.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Vifilneg bozej iboara kozahsu celza efoegbug ke ti nujpo uz agudse mipedrab najip vudwofi. Oc utenowla vig litbi wugju tawopibo jirjo cedwiti icebug vuju gud ga fimu poc. Dow puvvedju cod dulaggub sozevo gavtewis ow ci up jo dicjo ge.",
+    "bio": "Foru bi asuoha we ikubefze fiiraru utuwud lo fal tu ugo geujuzo sajralla gowutafo. Ge nulorefop rigsul zemfuzmes pufim ik wit zogeg asujro wot me koijoker vikno ima. Iwehukzu vowomzuc tucvelbam elacu kuor cinpunkov ridu pehe jaj gar wuk dozu nusopoda rug efwas wiscazoz. Ahese sejcoszot huge kifdor ofgi afcabwo zocucva jo camzipuf loaflob akalaju it vi enofo pesegu agoci."
+  },
+  "apiKey": "60927445863b422e42ce8abc2c56a69652d502abb240435b91926c81b7df1c92",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
