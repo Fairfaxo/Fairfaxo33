@@ -1,0 +1,26 @@
+{
+  "name": "Eva Rios",
+  "age": 44,
+  "address": {
+    "street": "Vico Path",
+    "city": "Ogsarer",
+    "state": "MT",
+    "zip": "12979"
+  },
+  "contact": {
+    "phone": "(316) 500-6039",
+    "servicePhone": "800343564"
+  },
+  "birthday": "1982-07-23T01:47:02.402Z",
+  "ip": "28.146.166.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Ah ot elnimro wedfi zaet isekuniw du odizu hezjuv fuf bafjiane iputo. Sok ki gigaifo gelunu wo keaweeso muklo cu pepu cehewzim ruuwagih ta. Roodo se ushis vakec betolo lokdef majmuw jiv cucesoni ala bum nuhizho.",
+    "bio": "Jouje ri hofo ocoja vipetiju norzoado jizcos sogu vorebegar kud voogfe okovu kabapgad lav sivopok ugta bevofro wefimav. Ibvam je inapa apurug bovupeb noaparej toz micjipdo noefo lalwa seiweho rapdan gulcefsof guob limiv. Davof ri fo duem zecavfo kuifniw ig digzarobo ahi cisud wocifcub rijluac na bimfe su rudepaz. Re jaicibo tenos tar miczezos rolfes uf sehbe ve domcat agum jop tit biowwo la wus obamonib. Jo ikmar japgev caciif octeduj sefutewi kidazo lo eso nij oj dettos tosjupto. Ug luc ne medozug tev vutozu cozbaaso egjecne nu kivi afezu zuatnef. Matot riwelu sigavzit ojger wespubhiz we ukewor dimcuso aro vusijse do biwpa sogwuig janopeus hokka feego."
+  },
+  "apiKey": "2a90bf8630c6e3255e468d637dfeee369a58d93fcdf32d3a3e3c2c51a517a6d6",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
