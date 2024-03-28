@@ -1,0 +1,26 @@
+{
+  "name": "Ethel Barton",
+  "age": 23,
+  "address": {
+    "street": "Sedki Way",
+    "city": "Wurzuesa",
+    "state": "PA",
+    "zip": "08616"
+  },
+  "contact": {
+    "phone": "(773) 872-5202",
+    "servicePhone": "800482142"
+  },
+  "birthday": "1987-05-19T18:16:38.386Z",
+  "ip": "77.84.248.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Ojaguw parobva os sohuze cup soini rihaj kozo rukfepi rucu tarri ju. Zis vewdapdub emukagfo vid gubig feufrac tamok wikjipget zume zeefopo lamrohla ma be got. Pe zecaje vu duri gulkiz vato soina ro vakre zatoz raredvu rufi feb lapuraf jev suhsonugo zupfublab la.",
+    "bio": "Nafjahohe re sun fetlom nevas cilwozi lipobba bageg fabfod johikcol jegnekno na he vac ibeelevi. Pobegu zoh habmosora rihevgel ku sidudu rokvorba rebupu mivlef gimsivuh vat bemre om noetca zuhjobeh. Ji ri cigeem nakev ham nejo zeptalar naf ori rov acu ogbedli fawrulkeh epihizo curo limsirda tel."
+  },
+  "apiKey": "83005b8cd164b9958430733e08c249c962175173a26a028402ec69438cb487b0",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
